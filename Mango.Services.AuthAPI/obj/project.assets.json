@@ -4480,23 +4480,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gilmar\\.nuget\\packages\\": {},
+    "C:\\Users\\GeneralGilmar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilmar\\Desktop\\CSharpCompleto\\Mango\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+      "projectUniqueName": "C:\\Users\\GeneralGilmar\\Desktop\\Treino\\MangoMicroservice\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
       "projectName": "Mango.Services.AuthAPI",
-      "projectPath": "C:\\Users\\gilmar\\Desktop\\CSharpCompleto\\Mango\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
-      "packagesPath": "C:\\Users\\gilmar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilmar\\Desktop\\CSharpCompleto\\Mango\\Mango.Services.AuthAPI\\obj\\",
+      "projectPath": "C:\\Users\\GeneralGilmar\\Desktop\\Treino\\MangoMicroservice\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+      "packagesPath": "C:\\Users\\GeneralGilmar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GeneralGilmar\\Desktop\\Treino\\MangoMicroservice\\Mango.Services.AuthAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GeneralGilmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4505,7 +4505,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files (x86)\\Progress\\Telerik UI for .NET MAUI 3.0.0\\Packages": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
